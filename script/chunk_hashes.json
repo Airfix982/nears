@@ -1,0 +1,44 @@
+{
+  "hashes": [
+    "dP2VAlKB5/vSHaS312AbwdhR/oKdf9wlL6+HQl8o8DBgVQ/lvrbilDenhtFR1kLYoaAgI+YMeWXn7/7nUYtj2g==",
+    "HOGjBHs9ZUeKZYh9FLWtig3VlsMBP/ABoik7RNcUNZpQYrDQUo/5Hi8k/6g/REPknKIxmR+yf3ZYQAwRRnmCMw==",
+    "3RlzbJonsljddj+F+divU9QM0cAI9qTtwx47L+oCjAKHwmI/tTXKDK8ierDCBBrkQ/ZCdBHAzuvh+VMKy4a6eA==",
+    "f3ZB9LR5RotzjZ82pbTmeap+yLuocN8t/Oj1gz94cDKf3X1Bl6crwLl/D3uK4c7hE3KA4tIdenTmZZ3rzw8F7g==",
+    "F+Bgl9b2BMgx/NAd6Q8ruzhqWP27KY7gcQk+JNvKmWWHYahVOlTytAsy8iCxKscq71A1AK7q7zeXwtAmdcjTxw==",
+    "TZ/ZZZoyhu/soW5m0sQ4ta9q4PYkh4vIE4Prd9OfhB44YOpHsaiyTL4QkjqwSxsu32pt0Yfhh6C0F8nRWUgL8w==",
+    "WttSgGzZ92OTOMvn0qN1ut2W+1hFQUgumbLK7SjcTbtU9VU9WNzXOg4wtdwNGEgSty/G10w3cjwqUWnVTUc1FA==",
+    "XoaQBfRMbbTE2cC9J+QTREWWiAiVpUAsG2ALNpUX6uaOXfBtv+urDaqjGbdanUmx/75AZrjbMmspBjJi2fdY/w==",
+    "fO2cHishIROeE07uLp6AkRM8q8T9yGuTi7VjWJVugYBHa5d+eOXIRySEWcQtM/M4U/w+zZpxTb7Yqo+JY7v+YA==",
+    "ql0XsPK3isaYfCLxM5qsfae+1jYGiI6g0x88B5Qqvsb8pi3ceqkOJXwP5O9COBbo59mIHnYlXzVKKDo/xBj1rA==",
+    "Xfd+irPvG3PLEECiWO0t5lCacSaQKdFjC1SSw6TPAxHh2n9aeM9oR78i1r/KKrm5CzA1Sadg3e+dlfQyIeOTPQ==",
+    "9MLArrO5G+saf+zyn/wq2VHp6GAVapUJMcAZRX6aMO3ZCEzd/XNpu6o3akrUetvRW+qpPnI2UuLun49oxGYwGA==",
+    "+3nhA1Yh2efZTvuy1EEPq/t3MmiTlGDK7usZp23bcBxek7jd7JZffT2NTCm0ummHvQlZ2tyarj01O2mVkWMFCg==",
+    "+d7eOaAGfYwvChIcz6N4CIZqQnflfsE+NWkWuS8vZLwB5NYnyRnc1IzOYbT1GQKsgiiGTYhTm7DsJR+OLkLR4w==",
+    "KPicnChwyF510LRw48gBPuP+T0za/7SHp8F36FapARE7QD+aTPanUNtCDHJVsqkUloz5X9rgoHmZ1LrOQ3n/ng=="
+  ],
+  "pad_lens": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    7984
+  ],
+  "config": {
+    "chunk_size": 16384,
+    "row_len": 8192,
+    "itr": 1,
+    "mode": "modadd",
+    "emd_max_imfs": 6,
+    "emd_max_siftings": 8
+  }
+}
